@@ -1,2 +1,3 @@
 # hello-world
 my first repository...
+hi guys my name is Ominira...i took interest in progrsmming, and i believe i will do well at it... pls feel free to reach me or evaluate my works, thanks guys
